@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a5613ab-63cf-429f-b622-78837aa1068d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UWXVoEqBj3MOV0aRbCRsYVd9Oo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/venv" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="SVM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SVM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a5613ab-63cf-429f-b622-78837aa1068d" name="Default Changelist" comment="" />
+      <created>1575473350962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575473350962</updated>
+      <workItem from="1575473356712" duration="1631000" />
+      <workItem from="1575563283880" duration="613000" />
+      <workItem from="1575564263135" duration="1607000" />
+      <workItem from="1575565957626" duration="28000" />
+      <workItem from="1575566417466" duration="8208000" />
+      <workItem from="1575626903226" duration="986000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="776" y="311" width="424" height="484" key="FileChooserDialogImpl" timestamp="1575564007923">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="311" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1575564007923" />
+    <state width="1807" height="207" key="GridCell.Tab.0.bottom" timestamp="1575629423842">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="207" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1575629423842" />
+    <state width="1807" height="207" key="GridCell.Tab.0.center" timestamp="1575629423842">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="207" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1575629423842" />
+    <state width="1807" height="207" key="GridCell.Tab.0.left" timestamp="1575629423842">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="207" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1575629423842" />
+    <state width="1807" height="207" key="GridCell.Tab.0.right" timestamp="1575629423842">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="207" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1575629423842" />
+    <state width="1807" height="367" key="GridCell.Tab.1.bottom" timestamp="1575578319148">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="367" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1575578319148" />
+    <state width="1807" height="367" key="GridCell.Tab.1.center" timestamp="1575578319141">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="367" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1575578319141" />
+    <state width="1807" height="367" key="GridCell.Tab.1.left" timestamp="1575578319141">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="367" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1575578319141" />
+    <state width="1807" height="367" key="GridCell.Tab.1.right" timestamp="1575578319142">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="367" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1575578319142" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1575566417242">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1575566417242" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SVM$main.coverage" NAME="main Coverage Results" MODIFIED="1575629265362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+  </component>
+</project>
